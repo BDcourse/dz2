@@ -13,7 +13,7 @@ class UserProfileApp(tk.Tk):
     def setup_ui(self):
         # Фон
         try:
-            bg_img = PhotoImage(file="images/skyblue.png")
+            bg_img = PhotoImage(file="images/photo_2025-10-22_18-51-26.jpg")
             bg_label = tk.Label(self, image=bg_img)
             bg_label.image = bg_img
             bg_label.place(x=0, y=0)
@@ -22,7 +22,7 @@ class UserProfileApp(tk.Tk):
 
         # Фото профиля
         try:
-            profile_img = PhotoImage(file="images/profile_image.png")
+            profile_img = PhotoImage(file="images/photo_2025-10-22_17-49-33.jpg")
             profile_label = tk.Label(self, image=profile_img)
             profile_label.image = profile_img
             profile_label.place(x=80, y=20)
