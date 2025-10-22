@@ -17,8 +17,8 @@
 
 ## Запуск:
 1. Создайте в папке проекта директорию `images` и добавьте туда:
-   - `skyblue.png`
-   - `profile_image.png`
+   - `skyblue.png` ![фон](https://github.com/BDcourse/dz2/blob/main/photo_2025-10-22_18-51-26.jpg)
+   - `profile_image.png` ![иконка](https://github.com/BDcourse/dz2/blob/main/photo_2025-10-22_17-49-33.jpg)
 
 2. Выполните в терминале:
-python user_profile_tkinter.py
+python code_dz2.py
